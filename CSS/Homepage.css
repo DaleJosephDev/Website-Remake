@@ -1,0 +1,18 @@
+nav {
+    background-color: #19232D;
+}
+
+a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #fff;
+    font-family: "Noto Serif", Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: normal;
+    padding: 15px;
+    margin: 15px;
+    line-height: 43px;
+    text-align: center;
+    display: inline;
+}
