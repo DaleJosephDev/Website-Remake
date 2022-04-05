@@ -20,6 +20,9 @@ a {
     width: 100px;
     display: inline;
     text-decoration: none;
+}
+
+ul {
     text-align: center;
 }
 
